@@ -7,9 +7,8 @@ Created on Sat Sep 20 20:39:39 2025
 """
 
 # Function definition to manipulate a list of integers
-# For each even number in the list, multiply it by 2
-# For each odd number in the list, multiply it by 3
 # Parameter: list of integers (list_in)
+# Returns: new list with manipulated values
 def list_mangler(list_in):
     result = []
     for num in list_in:

@@ -11,6 +11,7 @@ import math
 
 # Function definition to calculate the length of the hypotenuse of a right triangle using the Pythagorean theorem
 # Parameters: lengths of the two sides (length_of_a and length_of_b)
+# Returns: length of the hypotenuse
 def pythagoreanTheorem(length_of_a, length_of_b):
     return math.hypot(length_of_a, length_of_b)
 
