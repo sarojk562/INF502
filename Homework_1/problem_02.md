@@ -18,3 +18,7 @@ print(f"Input List: {input_list}")
 print(f"Output List: {output_list}")
 # Output: [3, 4, 9, 8, 15]
 ```
+
+## Screenshot of sypder run for the problem code
+
+![Problem 02 Diagram](problem_02.png)

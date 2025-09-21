@@ -18,3 +18,7 @@ letter_grade = grade_calc(grades, num_to_drop)
 print(f"The letter grade after dropping the lowest {num_to_drop} grades is: {letter_grade}")
 # Output: The letter grade after dropping the lowest 2 grades is: A
 ```
+
+## Screenshot of sypder run for the problem code
+
+![Problem 03 Diagram](problem_03.png)

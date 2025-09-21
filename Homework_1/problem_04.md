@@ -19,3 +19,7 @@ print("Odd numbers:", result[1])
 # Output: Even numbers: [10, 4, 66, 70]
 # Output: Odd numbers: [21, 45, 93, 11]
 ```
+
+## Screenshot of sypder run for the problem code
+
+![Problem 04 Diagram](problem_04.png)
