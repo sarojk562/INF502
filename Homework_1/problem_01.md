@@ -18,3 +18,7 @@ hypotenuse = pythagoreanTheorem(side_a, side_b)
 print(f"The length of the hypotenuse is: {hypotenuse}")
 # Output: 5.0
 ```
+
+## Screenshot of sypder run for the problem code
+
+![Problem 01 Diagram](problem_01.png)
