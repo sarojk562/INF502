@@ -1,0 +1,4 @@
+age: 37
+sex: female
+mass: 52
+group: adult

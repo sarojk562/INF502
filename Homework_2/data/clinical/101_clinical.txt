@@ -1,0 +1,4 @@
+age: 21
+sex: female
+mass: 60
+group: adult

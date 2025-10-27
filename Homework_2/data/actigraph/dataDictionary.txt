@@ -1,0 +1,15 @@
+Each csv is an export from the ActiLife processing program, reducing ActiGraph data to the minute level.
+Starting on line 11, columns are as follows
+Axis1, Axis2, Axis3, Steps, Lux, InclinometerOff, InclinometerStanding, InclinometerSitting, InclinometerLying
+where
+Axis1 is the sum of "counts" on the x-axis during the minute
+Axis2 is the sum of "counts" on the y-axis during the minute
+Axis3 is the sum of "counts" on the z-axis during the minute
+Steps is the sum of steps counted during that minute
+Lux is the mean luminosity sensed by a photoresistor
+InclinometerOff is the number of seconds in the minute that the inclinometer indicated the ActiGraph was not worn
+InclinometerStanding is the number of seconds in the minute where the inclinometer indicated the subect was standing
+InclinometerSitting is the number of seconds in the minute where the inclinometer indicated the subect was sitting
+InclinometerLying is the number of seconds in the minute where the inclinometer indicated the subect was lying down
+
+While not reported in this file, it's common to take the root mean square of the x, y, and z axis to find the total magnitude.

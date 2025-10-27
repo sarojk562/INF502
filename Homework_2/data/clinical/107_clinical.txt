@@ -1,0 +1,4 @@
+age: 21
+sex: male
+mass: 74
+group: adult
